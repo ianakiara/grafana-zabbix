@@ -1,16 +1,15 @@
-# Grafana-Zabbix
+Grafana-Zabbix [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/alexanderzobnin/grafana-zabbix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+==============
 
 #### Zabbix datasource for Grafana dashboard
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/alexanderzobnin/grafana-zabbix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- Touch a [live demo](http://play.grafana-zabbix.org)
+- Download [latest release](https://github.com/alexanderzobnin/grafana-zabbix/releases/latest)
+- [Install](https://github.com/alexanderzobnin/grafana-zabbix/wiki/Installation#grafana-21x-and-25x) datasource
+- [RTFM](https://github.com/alexanderzobnin/grafana-zabbix/wiki) (read the docs)
+- [Donate](https://www.paypal.me/alexanderzobnin)
 
-##### [Donate](https://www.paypal.me/alexanderzobnin)
-
-##### See features overview and dashboards examples at Grafana-Zabbix [Live demo](http://play.grafana-zabbix.org) site.
-
-##### Download [latest release](https://github.com/alexanderzobnin/grafana-zabbix/releases/latest)
-
-Display your Zabbix data directly in [Grafana](http://grafana.org) dashboards!
+##### Display your Zabbix data directly at [Grafana](http://grafana.org) dashboards!
 
 ![Dashboard](https://cloud.githubusercontent.com/assets/4932851/8269101/9e6ee67e-17a3-11e5-85de-fe9dcc2dd375.png)
 
