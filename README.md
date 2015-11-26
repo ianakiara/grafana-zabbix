@@ -1,7 +1,7 @@
 Grafana-Zabbix [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/alexanderzobnin/grafana-zabbix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ==============
 
-#### Zabbix datasource for Grafana dashboard
+###### Zabbix datasource for Grafana dashboard
 
 - Touch a [live demo](http://play.grafana-zabbix.org)
 - Download [latest release](https://github.com/alexanderzobnin/grafana-zabbix/releases/latest)
@@ -9,20 +9,15 @@ Grafana-Zabbix [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://git
 - [RTFM](https://github.com/alexanderzobnin/grafana-zabbix/wiki) (read the docs)
 - [Donate](https://www.paypal.me/alexanderzobnin)
 
-##### Display your Zabbix data directly at [Grafana](http://grafana.org) dashboards!
+Display your Zabbix data directly at [Grafana](http://grafana.org) dashboards!
 
 ![Dashboard](https://cloud.githubusercontent.com/assets/4932851/8269101/9e6ee67e-17a3-11e5-85de-fe9dcc2dd375.png)
 
-#### [Documentation](https://github.com/alexanderzobnin/grafana-zabbix/wiki)
-1. [**Overview**](https://github.com/alexanderzobnin/grafana-zabbix/wiki/Overview)
-2. [**Installation**](https://github.com/alexanderzobnin/grafana-zabbix/wiki/Installation#grafana-21x-and-25x)
-3. [**User’s Guide**](https://github.com/alexanderzobnin/grafana-zabbix/wiki/Usage)
-4. [**Troubleshooting**](https://github.com/alexanderzobnin/grafana-zabbix/wiki/Troubleshooting)
-
-## Features
+Features
+--------
 
 #### Flexible metric editor
- * hosts and items filtering:
+Select multiple graphs by one query. Use power of regex and filter hosts and items.
  
 [![regex_filter](https://cloud.githubusercontent.com/assets/4932851/8312766/5eb34480-19e7-11e5-925f-452a99ec0ab6.gif)](https://cloud.githubusercontent.com/assets/4932851/8312766/5eb34480-19e7-11e5-925f-452a99ec0ab6.gif)
 
